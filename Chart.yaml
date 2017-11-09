@@ -1,0 +1,7 @@
+name: haproxy-ingress
+home: https://github.com/jcmoraisjr/haproxy-ingress
+version: 0.1.0
+description: haproxy ingress Chart for Kubernetes.
+maintainers:
+  - name: Alexandre Mclean
+    email: alexandre.mclean@gmail.com
